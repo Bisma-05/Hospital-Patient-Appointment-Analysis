@@ -1,92 +1,54 @@
-# 🏥 Hospital Patient Appointment Analysis | Power BI
+# 🏥 Hospital Patient Appointment Analysis
 
-## 📖 Project Overview
+## About the Project
 
-This project presents an interactive Power BI dashboard built to analyze hospital patient appointment data. The dashboard provides insights into appointment trends, patient demographics, missed appointment rates, and neighborhood-level analysis through interactive visualizations.
+I built this Power BI dashboard to explore hospital appointment data and understand patient attendance patterns. The goal was to identify trends, analyze missed appointments, and create an interactive report that makes the data easy to explore and understand.
 
----
-
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](Dashboard.png)
 
----
+## What This Dashboard Shows
 
-## 🎯 Objectives
+- Total patients and appointments
+- Missed appointment (No-show) rate
+- Monthly appointment trends
+- Gender distribution
+- Missed appointments by age group
+- Neighborhood-wise patient analysis
+- Interactive filters for appointment date, age group, hypertension, and diabetes
 
-- Analyze hospital appointment patterns.
-- Monitor missed appointment (No-show) rates.
-- Understand patient demographics.
-- Identify trends over time.
-- Support healthcare decision-making through interactive visualizations.
+## Key Findings
 
----
+- The dataset contains more than **111,000** hospital appointments.
+- Around **20.2%** of appointments were missed.
+- Female patients accounted for about **65%** of all appointments.
+- Adults between **36 and 55 years** had the highest number of missed appointments.
+- The highest number of appointments was recorded in **May**.
 
-## 📈 Dashboard Features
-
-- KPI Cards
-  - Total Patients
-  - Total Appointments
-  - Missed Appointment Rate
-  - SMS Received
-
-- Interactive Filters
-  - Appointment Date
-  - Age Group
-  - Hypertension
-  - Diabetes
-
-- Visualizations
-  - Monthly Appointment Trend
-  - Gender Distribution
-  - Neighborhood Analysis (Map)
-  - Missed Appointments by Age Group
-
----
-
-## 📌 Key Insights
-
-- The dataset contains over **111K hospital appointments**.
-- Approximately **20.2%** of appointments resulted in no-shows.
-- Female patients account for around **65%** of total appointments.
-- Adults aged **36–55 years** recorded the highest number of missed appointments.
-- Appointment volume reached its peak in **May**.
-
----
-
-## 🛠️ Tools & Technologies
+## Tools Used
 
 - Microsoft Power BI
 - Power Query
 - DAX
-- Microsoft Excel / CSV
-- Data Visualization
+- Microsoft Excel
 
----
-
-## 📂 Project Files
+## Files Included
 
 - Hospital Patient Appointment Analysis.pbix
-- healthcare_dataset.csv
+- healthcare_dataset.xlsx
 - Dashboard.png
-- README.md
 
----
+## What I Learned
 
-## 🚀 Skills Demonstrated
+Working on this project helped me improve my skills in:
 
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX Calculations
-- Interactive Dashboard Design
-- KPI Development
-- Business Intelligence Reporting
+- Data cleaning with Power Query
+- Creating relationships and data models
+- Writing DAX measures
+- Designing interactive dashboards
+- Presenting data through clear visualizations
 
----
+## About Me
 
-## 👤 Author
-
-**Bisma M B**
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+I'm a recent B.Sc. Mathematics graduate who is learning data analytics. I'm building projects to strengthen my skills in Power BI, SQL, Excel, and Python while working toward a career as a Data Analyst.
